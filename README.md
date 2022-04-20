@@ -65,9 +65,16 @@ insert old and new dats frame
 
 # **School Summary** #
 **How is the school summary affected?**
-The scool summary for this data set was affected tremendouly when broken down to a school level and based on grade. Overall, we still do not see a major shift one way or the other for the overall data. As no data was removed for any other school and the metrics did not call for percentages to be obtained at a grade level all that is displayed is a "NaN" for THS
--
+
+The school summary for this data set was affected tremendouly when broken down to a school level and presumably based on per grade percentages.  Overall, we still do not see a major shift one way or the other for the overall data after THS is removed. As no data was removed for any other school and the metrics did not call for percentages to be obtained at a grade level, all that is displayed is a "NaN" for THS 9th graders. I would expect that the reading average at the ninth grade level would increase due to the way the THS grades were impacted. 
 
 # **Removal of 9th Graders at THS** #
+THS saw the greatest and most tangible effects of the ninth grade data being removed from the data set
 
 # **Removal of 9th Graders Overall Impact** #
+
+
+
+
+
+
