@@ -17,6 +17,7 @@ During collection of the data, Maria was advised by the school board that there 
 # Results #
 
 # **District Summary** #
+How is the district summary affected?
 
 - We see an increase in the Overall passing percentage in the district:
 
@@ -59,6 +60,9 @@ During collection of the data, Maria was advised by the school board that there 
   
 
 # **School Summary** #
+How is the school summary affected?
+
+-
 
 # **Removal of 9th Graders at THS** #
 
