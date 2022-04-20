@@ -11,7 +11,7 @@ During collection of the data, Maria was advised by the school board that there 
 15 schools 
 39,170 students math and reading scores (before rmoval)
 
-
+![Old_Passing_Ct.png](https://github.com/NShan9297/School_District_Analysis/blob/main/Resources/Old_Passing_Ct.png)
 
 # Results #
 
