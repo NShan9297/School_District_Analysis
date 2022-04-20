@@ -103,7 +103,7 @@ THS saw the greatest and most tangible effects of the ninth grade data being rem
     group_names = ["Small (<1000)", "Medium (1000-1999)", "Large (2000-5000)"]
 
     And the budget was not an adjustable variable, the budget remained the same, furthermore, as THS started as a "Medium Sized School" at 1635 students. When the 461     students were removed, it left a student population of 1174 which, based on the above, is still considered a medium size school. As there was no shift, we do not 
-    see much difference here either:
+    see much difference here either, save for the medium sized school category:
     
     
 **Overall Passing Spending Before**
@@ -127,8 +127,22 @@ THS saw the greatest and most tangible effects of the ninth grade data being rem
                                             
     
 - ***Scores by school type***
-We see changes in score by school type. This is observed because as the 
-    
+We see similar changes in score by school type. THS is a charter school so this is where we would expect changes
+
+
+**Overall Passing Before (By School Type)**
+
+                                            School Size
+                                            Charter     90.432244
+                                            District    53.672208
+                                            
+                                          
+
+**Overall Passing After (By School Type)**
+
+                                            School Type
+                                            Charter     90.392533
+                                            District    53.672208
     
     
 - ***Scores by school size***
