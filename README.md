@@ -111,6 +111,8 @@ We see changes with the percentages here, primarily in the medium sized category
 - ***Scores by school type***
 We see changes in score by school type. This is observed because as the 
 
+
+
  **Overall Passing Before**
                                             School Size
                                             Small (<1000)         89.883853
