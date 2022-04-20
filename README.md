@@ -20,42 +20,42 @@ During collection of the data, Maria was advised by the school board that there 
 
 - We see an increase in the Overall passing percentage in the district:
 
-  **New Overall Passing Percentage**
+    **New Overall Passing Percentage**
   
-  75.8738 % (math)
+    75.8738 % (math)
   
-  86.8273 % (reading) 
+    86.8273 % (reading) 
 
- **Old Overall Passing Percentage**
+    **Old Overall Passing Percentage**
   
-  74.9808 % (math)
+    74.9808 % (math)
   
-  85.80546 % (reading) 
+    85.80546 % (reading) 
 
 
 - We see a decrease in the number of students passing in the district as well
 
-  **New Number of Students Passing**
+    **New Number of Students Passing**
   
-  28939(math)
+    28939(math)
   
-  33158 (reading)
+    33158 (reading)
   
 
-  **Old Number of Students Passing**
+    **Old Number of Students Passing**
   
-  29370(math)
+    29370(math)
   
-  33610 (reading) 
+    33610 (reading) 
   
 
 - We see a decrease in the overall passing percentage
 
-  **Overall passing percentage**
+    **Overall passing percentage**
 
-  Before: 65.1723%
+    Before: 65.1723%
   
-  After: 64.85571%
+    After: 64.85571%
   
 
 # **School Summary** #
