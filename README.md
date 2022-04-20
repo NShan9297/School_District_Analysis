@@ -92,23 +92,37 @@ THS saw the greatest and most tangible effects of the ninth grade data being rem
 
 # **Removal of 9th Graders Overall Impact** #
 
-- Math and reading scores by grade
+- ***Math and reading scores by grade***
   we don't see any changes in the scores by grade as the percentages were not calulated which would have shone more light on how much the average was being pulled down   THS 9th grade students
 
-- Scores by school spending
+- ***Scores by school spending***
+    The bins used to gather the school data were 
 
-- Scores by school size
-The bins used to gather the school data were 
+    size_bins = [0, 999, 1999, 5000]
 
-size_bins = [0, 999, 1999, 5000]
+    group_names = ["Small (<1000)", "Medium (1000-1999)", "Large (2000-5000)"]
 
-group_names = ["Small (<1000)", "Medium (1000-1999)", "Large (2000-5000)"]
-
-And the budget was not an adjustable variable, the budget remained the same, furthermore, as THS started as a "Medium Sized School" at 1635 students. When the 461 students were removed, it left a student population of 1174 which, based on the above, is still considered a medium size school 
-
-- Scores by school type
-
+    And the budget was not an adjustable variable, the budget remained the same, furthermore, as THS started as a "Medium Sized School" at 1635 students. When the 461     students were removed, it left a student population of 1174 which, based on the above, is still considered a medium size school 
+    
+- ***Scores by school size***
+We see changes with the percentages here, primarily in the medium sized category:
 
 
+- ***Scores by school type***
+We see changes in score by school type. This is observed because as the 
+
+ **Overall Passing Before**
+                                            School Size
+                                            Small (<1000)         89.883853
+                                            Medium (1000-1999)    90.621535
+                                            Large (2000-5000)     58.286003
+                                          
+
+**Overall Passing After**
+
+                                            School Size
+                                            Small (<1000)         89.883853
+                                            Medium (1000-1999)    90.557997
+                                            Large (2000-5000)     58.286003
 
 # **Summary** #
