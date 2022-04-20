@@ -20,6 +20,9 @@ During collection of the data, Maria was advised by the school board that there 
 # **District Summary** #
 **How is the district summary affected?**
 
+The District summary seems to display some slight changes in percentages but does not seem to be impacted in a major way:
+insert old and new dats frame 
+
 - We see an increase in the Overall passing percentage in the district:
 
     ***New Overall Passing Percentage***
@@ -62,7 +65,7 @@ During collection of the data, Maria was advised by the school board that there 
 
 # **School Summary** #
 **How is the school summary affected?**
-
+The scool summary for this data set was affected tremendouly when broken down to a school level and based on grade. Overall, we still do not see a major shift one way or the other for the overall data. As no data was removed for any other school and the metrics did not call for percentages to be obtained at a grade level all that is displayed is a "NaN" for THS
 -
 
 # **Removal of 9th Graders at THS** #
