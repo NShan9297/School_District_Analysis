@@ -21,7 +21,15 @@ During collection of the data, Maria was advised by the school board that there 
 **How is the district summary affected?**
 
 The District summary seems to display some slight changes in percentages but does not seem to be impacted in a major way:
-insert old and new dats frame 
+
+                                             **original district summary**
+                     
+![Old_Dist_Sum](https://user-images.githubusercontent.com/99927324/164128480-e6266b59-af2b-4063-8d73-6937dd9bcdd1.png)
+                                                
+                                                **and new below**
+
+![Dist_Sum](https://user-images.githubusercontent.com/99927324/164128555-670ffb54-d11c-4036-991e-05be9af0f17b.png)
+
 
 - We see an increase in the Overall passing percentage in the district:
 
