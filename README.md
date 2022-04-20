@@ -11,17 +11,36 @@ During collection of the data, Maria was advised by the school board that there 
 15 schools 
 
 39,170 students math and reading scores (before removal)
-
+38,709 students math and reading scores (after removal)
 
 
 # Results #
 
 # **District Summary** #
-While it appears to be slight, there was a difference in the overall passing scores for Math and Reading. The percentages went up at just about 1%:
-![Old_Passing_Ct.png](https://github.com/NShan9297/School_District_Analysis/blob/main/Resources/Old_Passing_Ct.png)
+
+- We see an increase in the Overall passing percentage in the district:
+
+  New Overall Passing Percentage
+  75.8738 % (math)
+  86.8273 % (reading) 
+
+  Old Overall Passing Percentage
+  74.9808 % (math)
+  85.80546 % (reading) 
 
 
-![New_Passing_ct.png](https://github.com/NShan9297/School_District_Analysis/blob/main/Resources/New_Passing_ct.png)
+- We see an decrease in the number of students passing in the district as well
+  New Number of Students Passing
+  28939(math)
+  33158 (reading)
+
+  Old Number of Students Passing
+  29370(math)
+  33610 (reading) 
+
+- Overall passing percentage
+  Before: 65.1723%
+  After: 64.85571%
 
 # **School Summary** #
 
