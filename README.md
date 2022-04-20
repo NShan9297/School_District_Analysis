@@ -114,6 +114,7 @@ We see changes in score by school type. This is observed because as the
 
 
 **Overall Passing Before**
+
                                             School Size
                                             Small (<1000)         89.883853
                                             Medium (1000-1999)    90.621535
