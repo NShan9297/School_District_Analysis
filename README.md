@@ -78,16 +78,31 @@ The school summary for this data set was affected tremendouly when broken down t
 # **Removal of 9th Graders at THS** #
 THS saw the greatest and most tangible effects of the ninth grade data being removed from the data set. The THS average for both math and reading was originally in the 60s, after removal, the scores shot up to over 90% for both math and reading:
 
+
                                             **Thomas High School before**
 ![THS_before](https://user-images.githubusercontent.com/99927324/164128855-4cbf543d-b8ac-4367-ab93-3821d50a9586.png)
+
+
 
           `                                 **Thomas High School after***
 ![THS_after](https://user-images.githubusercontent.com/99927324/164128949-d408a1af-4f20-4c9d-b209-f6276ae60043.png)
 
 
+
+
 # **Removal of 9th Graders Overall Impact** #
 
+- Math and reading scores by grade
+  
 
+- Scores by school spending
+
+- Scores by school size
+The bins used to gather the school data were 
+size_bins = [0, 999, 1999, 5000]
+group_names = ["Small (<1000)", "Medium (1000-1999)", "Large (2000-5000)"]
+
+- Scores by school type
 
 
 
