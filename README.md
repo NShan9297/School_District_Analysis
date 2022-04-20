@@ -104,12 +104,16 @@ THS saw the greatest and most tangible effects of the ninth grade data being rem
 
     And the budget was not an adjustable variable, the budget remained the same, furthermore, as THS started as a "Medium Sized School" at 1635 students. When the 461     students were removed, it left a student population of 1174 which, based on the above, is still considered a medium size school 
     
+- ***Scores by school type***
+We see changes in score by school type. This is observed because as the 
+    
+    
+    
 - ***Scores by school size***
 We see changes with the percentages here, primarily in the medium sized category:
 
 
-- ***Scores by school type***
-We see changes in score by school type. This is observed because as the 
+
 
 
 
