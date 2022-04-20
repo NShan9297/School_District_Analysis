@@ -88,6 +88,11 @@ THS saw the greatest and most tangible effects of the ninth grade data being rem
 ![THS_after](https://user-images.githubusercontent.com/99927324/164128949-d408a1af-4f20-4c9d-b209-f6276ae60043.png)
 
 
+THS also went from being of the lowest to second overall based on ratings when 9th grade data was removed:
+
+
+![THS_top_sch](https://user-images.githubusercontent.com/99927324/164134837-67ab77a9-9127-4aa1-a1cc-185af97e468c.png)
+
 
 
 # **Removal of 9th Graders Overall Impact** #
@@ -172,6 +177,12 @@ We see changes with the percentages here, primarily in the medium sized category
 
 In conclusion, the removal of THS from the data set displayed the following:
 
+the chart below is the same chart we see from before the THS 9th grade students were removed
+
+
+![spending ](https://user-images.githubusercontent.com/99927324/164134877-465f2b36-d333-45db-8205-d3812f6718c9.png)
+
+
 - THS scores for ninth grade did have an impact on THS overall scores, math scores and reading scores. The drastic shift seems to imply that the numbers were extremely
   low.
   
@@ -179,5 +190,8 @@ In conclusion, the removal of THS from the data set displayed the following:
 
 - As for the budgeting, basing it off of school size alone, it doesn't make ***much*** difference if the data is removed or if it had stayed had there been no academic   dishonesty
 
-- The district saw some changes but were also less than 1%
+- The district saw some changes but were also less than 1%-any decrease in percentages is likely a direct result in the decrease in the number of scores so this seems negligible
+
+
+Ultimately, I would advise the School Board of this and let them know that more funds need to be given to charter schools. All charter schools performed better in all areas compared to District schools. The per student amount is lower while the student counts seem to be similar in size. 
 
