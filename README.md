@@ -9,16 +9,19 @@ During collection of the data, Maria was advised by the school board that there 
 ## Data Set ##
 
 15 schools 
-39,170 students math and reading scores (before rmoval)
 
-![Old_Passing_Ct.png](https://github.com/NShan9297/School_District_Analysis/blob/main/Resources/Old_Passing_Ct.png)
+39,170 students math and reading scores (before removal)
+
+
 
 # Results #
 
 # **District Summary** #
 While it appears to be slight, there was a difference in the overall passing scores for Math and Reading. The percentages went up at just about 1%:
+![Old_Passing_Ct.png](https://github.com/NShan9297/School_District_Analysis/blob/main/Resources/Old_Passing_Ct.png)
 
 
+![New_Passing_ct.png](https://github.com/NShan9297/School_District_Analysis/blob/main/Resources/New_Passing_ct.png)
 
 # **School Summary** #
 
