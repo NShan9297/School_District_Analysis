@@ -30,7 +30,6 @@ The District summary seems to display some slight changes in percentages but doe
 
 ![Dist_Sum](https://user-images.githubusercontent.com/99927324/164128555-670ffb54-d11c-4036-991e-05be9af0f17b.png)
 
-
 - We see an increase in the Overall passing percentage in the district:
 
     ***New Overall Passing Percentage***
@@ -77,7 +76,14 @@ The District summary seems to display some slight changes in percentages but doe
 The school summary for this data set was affected tremendouly when broken down to a school level and presumably based on per grade percentages.  Overall, we still do not see a major shift one way or the other for the overall data after THS is removed. As no data was removed for any other school and the metrics did not call for percentages to be obtained at a grade level, all that is displayed is a "NaN" for THS 9th graders. I would expect that the reading average at the ninth grade level would increase due to the way the THS grades were impacted. 
 
 # **Removal of 9th Graders at THS** #
-THS saw the greatest and most tangible effects of the ninth grade data being removed from the data set
+THS saw the greatest and most tangible effects of the ninth grade data being removed from the data set. The THS average for both math and reading was originally in the 60s, after removal, the scores shot up to over 90% for both math and reading:
+
+                                            **Thomas High School before**
+![THS_before](https://user-images.githubusercontent.com/99927324/164128855-4cbf543d-b8ac-4367-ab93-3821d50a9586.png)
+
+          `                                 **Thomas High School after***
+![THS_after](https://user-images.githubusercontent.com/99927324/164128949-d408a1af-4f20-4c9d-b209-f6276ae60043.png)
+
 
 # **Removal of 9th Graders Overall Impact** #
 
