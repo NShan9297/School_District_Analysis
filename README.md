@@ -11,6 +11,7 @@ During collection of the data, Maria was advised by the school board that there 
 15 schools 
 
 39,170 students math and reading scores (before removal)
+
 38,709 students math and reading scores (after removal)
 
 
