@@ -169,3 +169,15 @@ We see changes with the percentages here, primarily in the medium sized category
                                             Large (2000-5000)     58.286003
 
 # **Summary** #
+
+In conclusion, the removal of THS from the data set displayed the following:
+
+- THS scores for ninth grade did have an impact on THS overall scores, math scores and reading scores. The drastic shift seems to imply that the numbers were extremely
+  low.
+  
+- Though we see changes, they are on average, relatively small. 
+
+- As for the budgeting, basing it off of school size alone, it doesn't make ***much*** difference if the data is removed or if it had stayed had there been no academic   dishonesty
+
+- The district saw some changes but were also less than 1%
+
